@@ -1,2 +1,0 @@
-# GULSAH 
- SQL ÖDEV1
